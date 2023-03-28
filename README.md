@@ -1,6 +1,6 @@
 # Crowdfunding Analysis
 
-This project involves organizing and analyzing a database of 1,000 sample crowdfunding projects using Microsoft Excel. The goal is to uncover any hidden trends and insights into what makes a successful crowdfunding campaign.
+This project involves organizing and analyzing a database of sample crowdfunding projects using Microsoft Excel. The goal is to uncover any hidden trends and insights into what makes a successful crowdfunding campaign.
 
 ## Data
 
